@@ -1,5 +1,4 @@
 # DS_SADIA
-Metis Fundamentals project Proposal
 
 Predicting Hotel Booking Cancelation
 
