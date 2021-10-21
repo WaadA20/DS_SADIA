@@ -45,12 +45,15 @@ variable)
 
 
 
- ## Question/need
+ ## Exploratory Data Analysis (EDA) 
+Exploratory data analysis is performed to gain different useful information and hidden insights from dataset. In this section different statistical techniques have been used to gain insights and then being visualized into appropriate charts and plots. A few questions have been mentioned below which help approach the analysis in the right manner and generate insights from the data.
 1.	What are the busiest months in the hotel?
 2.	Which market segment do most of the guests come from?
 3.	Hotel rates are dynamic and change according to demand and customer demographics. What are the differences in room prices in different market segments?
 4.	What percentage of bookings are canceled?
 5.	Repeating guests are the guests who stay in the hotel often and are important to brand equity. What percentage of repeating guests cancel?
+![image](https://user-images.githubusercontent.com/91346529/138221286-0728ca7e-f3b1-43c3-b233-5c3c10ef1cc5.png)
+
 
 
 
